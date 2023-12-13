@@ -1,0 +1,40 @@
+body {
+    background-color: #02075d;
+    font-family: 'Ubuntu', sans-serif;
+    color: #0d48a0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background-color: #041f42;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  h2 {
+    color: white;
+  }
+  
+  p {
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+    padding: 10px;
+  }
+  
+  .link {
+    color: rgb(225, 126, 240);
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
